@@ -4,7 +4,7 @@ If you've got a system DM from discord about your token being reset, it's been l
 
 So without further ado... here are the tokens:
 #### NjU5Nzg1MjM5MTg2Mzc0NjY2.XhIQmQ.aufVyhvIBrlY6xKzyAelURQ1NIM
-###### Arrrrrrichiii#8120 
+##### Arrrrrrichiii#8120 
 ID: 659785239186374666<br/>
 In servers: 0<br/>
 Accessing users: 0 (1 including the bot)<br/>
